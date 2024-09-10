@@ -97,3 +97,6 @@ docker run -d \
   elixirprotocol/validator:v3
 ```
 **Join Channel For Update** : https://t.me/ZonaAirdr0p
+
+**Source Docs Official Guide** :
+https://docs.elixir.xyz/running-an-elixir-validator
