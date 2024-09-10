@@ -1,14 +1,15 @@
 # Elixir-Validaror-Node-Guide
 Running an Elixir Testnet Validator
 
-## Recommended Hardware Requirements 
+## Recommended Hardware Requirements
 
-|   SPEC      |        Recommend          |
-| :---------: | :-----------------------: |
-|   **CPU**   | 4 Cores (ARM64 or x86-64) |
-|   **RAM**   |        4 GB (DDR4)        |
-|   **SSD**   |        100 GB          |
-| **NETWORK** |        100 Mbps           |
+| **Requirement**              | **Description**                     |
+|------------------------------|-------------------------------------|
+| Operating System             | Ubuntu 22.04 or newer               |
+| Memory (RAM)                 | Minimum 8 GB                        |
+| Disk Space                   | Minimum 100 GB of free disk space   |
+| Bandwidth                    | 100Mbit/s                           |
+
 
 ### Install Dependencies
 
